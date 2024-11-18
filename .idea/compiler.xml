@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="analytics" />
+        <module name="notification" />
+        <module name="product" />
+        <module name="discovery-server" />
+        <module name="fraud-check" />
+        <module name="api-gateway" />
+        <module name="admin" />
+        <module name="client" />
+        <module name="payment" />
+        <module name="order" />
+        <module name="customer" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
